@@ -75,6 +75,16 @@ Note: classes are held once a week for 3,5 hours.
 	* Heatmap
 	* Popups
 	* Case study II: open data Natal-RN
+* Lesson 10 - Choropleth maps
+    * Motivation
+    * Case study: IBGE, API Uber
+    * Geojson
+    * Importing files
+    * Creating maps
+    * Choropleths maps
+    * API Uber
+    * Exercises
+
 
 
 ### References
