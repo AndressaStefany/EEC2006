@@ -84,6 +84,13 @@ Note: classes are held once a week for 3,5 hours.
     * Choropleths maps
     * API Uber
     * Exercises
+* Lesson 11 - Importing Data from the Web
+    * Use the urllib and requests packages
+    * Make HTTP requests (GET requests)
+    * Web scraping with BeautifulSoup
+* Lesson 12 - Guided projects - webscraping
+    * IMDB and Metacritic
+    * Portal da Transparência
 
 
 
