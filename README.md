@@ -91,6 +91,18 @@ Note: classes are held once a week for 3,5 hours.
 * Lesson 12 - Guided projects - webscraping
     * IMDB and Metacritic
     * Portal da Transparência
+* Lesson 13 - Machine Learning Fundamental
+    * k-nearest neighbors)
+    * Case study: airbnb
+    * Univariate KNN
+    * Euclidean distance for univariate
+    * Error metrics
+    * Multivariate KNN
+    * Normalize columns
+    * Introduction to scikit-learn
+* Lesson 14 - Machine Learning Fundamental Cont.
+    * Hyperparameter optimization
+    * Cross validation
 
 
 
