@@ -103,6 +103,10 @@ Note: classes are held once a week for 3,5 hours.
 * Lesson 14 - Machine Learning Fundamental Cont.
     * Hyperparameter optimization
     * Cross validation
+* Lesson 15 - Calculus for Machine Learning (brief review)
+    * Understanding Linear and Nonlinear Functions
+    * Understanding Limits
+    * Finding extreme points
 
 
 
