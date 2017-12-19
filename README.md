@@ -107,6 +107,11 @@ Note: classes are held once a week for 3,5 hours.
     * Understanding Linear and Nonlinear Functions
     * Understanding Limits
     * Finding extreme points
+* Lesson 16 - Linear Algebra for Machine Learning (brief review)
+    * Linear Systems
+    * Vectors
+    * Matrix Algebra
+    * Solution Sets
 
 
 
