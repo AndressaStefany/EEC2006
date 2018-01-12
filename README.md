@@ -112,6 +112,12 @@ Note: classes are held once a week for 3,5 hours.
     * Vectors
     * Matrix Algebra
     * Solution Sets
+* Lesson 17 - Linear Regression
+    * The linear Regression Model
+    * Feacture selection
+    * Gradient descent
+    * Processing and Transforming Features
+    * Guided Project - Predicting House Sale Prices.ipynb
 
 
 
