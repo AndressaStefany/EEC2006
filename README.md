@@ -112,13 +112,16 @@ Note: classes are held once a week for 3,5 hours.
     * Vectors
     * Matrix Algebra
     * Solution Sets
-* Lesson 17 - Linear Regression
+* Lesson 17 - Linear Regression for Machine Learning
     * The linear Regression Model
     * Feacture selection
     * Gradient descent
     * Processing and Transforming Features
     * Guided Project - Predicting House Sale Prices.ipynb
-
+* Lesson 18 - Machine Learning in Python: Intermediate
+    * Logistic regression
+    * Introduction to evaluation binary classifiers
+    * Clustering basics
 
 
 ### References
