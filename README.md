@@ -122,6 +122,10 @@ Note: classes are held once a week for 3,5 hours.
     * Logistic regression
     * Introduction to evaluation binary classifiers
     * Clustering basics
+* Lesson 19 - Decision Trees
+    * Introduction to Decision Trees
+    * Applying Decision Trees
+    * Introduction to Random Forests
 
 
 ### References
