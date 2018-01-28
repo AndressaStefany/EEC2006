@@ -126,6 +126,11 @@ Note: classes are held once a week for 3,5 hours.
     * Introduction to Decision Trees
     * Applying Decision Trees
     * Introduction to Random Forests
+ * Lesson 20 - Kaggle Fundamentals
+    * Getting Started with Kaggle
+    * Feature Preparation, Selection and Engineering
+    * Model Selection and Tuning
+    * Creating a Kaggle Workflow
 
 
 ### References
